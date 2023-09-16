@@ -1,5 +1,5 @@
 # e-wallet
-# Spring Boot, Spring MVC, Spring Security: For robust development, web interfaces, and data protection
+** Spring Boot, Spring MVC, Spring Security: For robust development, web interfaces, and data protection
 # Maven: Ensuring smooth project management and build processes.
 # Kafka: Enabling real-time transaction handling.
 # Microservices, Rest API: For scalability and seamless integration.
